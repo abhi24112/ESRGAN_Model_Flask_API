@@ -2,8 +2,7 @@ Flask==3.0.3
 Flask-CORS==4.0.0
 Flask-Limiter==3.5.0
 Pillow==10.4.0
-tensorflow==2.20.0rc0
+tensorflow
 tensorflow-hub==0.14.0
-numpy==1.26.4
-
+numpy
 Werkzeug==3.0.4
